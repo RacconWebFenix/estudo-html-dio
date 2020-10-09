@@ -69,12 +69,7 @@ a{
 .contacts_list{
     list-style: none;
     padding-left: 15px;
-}
+    font-size: 10px;
+    display: inline; 
 
-pi{
-    font-size: 110%;
-    font-weight: 300;
-    text-align: justify;
-    line-height: 2em;
-    text-indent: 3em;
 }
